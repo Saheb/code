@@ -6,7 +6,7 @@
 name: Saheb Motiani
 
 # Short bio or description (displayed in the header)
-description: experiments with code
+description: my hacks and experiments with code
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/Saheb/jekyll-now/master/images/jekyll-logo.png
@@ -19,11 +19,11 @@ avatar: https://raw.githubusercontent.com/Saheb/jekyll-now/master/images/jekyll-
 footer-links:
   dribbble:
   email: saheb210692@gmail.com
-  facebook:
+  facebook: saheb.motiani
   flickr:
   github: Saheb/hacks
-  instagram:
-  linkedin:
+  instagram: sahebmotiani
+  linkedin: saheb-motiani
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: sahebmotiani
