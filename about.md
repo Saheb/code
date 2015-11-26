@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
@@ -16,6 +15,6 @@ Current Interests - Scala, Finagle, Akka.
 
 Non Technical Interests - Philosophy, Writing and Poker
 
-### Any time if you wish to Say Hi!
+Any time if you wish to Say Hi!
 
 [saheb210692@gmail.com](mailto:saheb210692@gmail.com)
