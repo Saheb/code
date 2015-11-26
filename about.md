@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there,
 
-### More Information
+I am Saheb, located in Bangalore, India. 
 
-A place to include any other types of information that you'd like to include about yourself.
+I work at Morgan Stanley, but am no trader or advisor, I write software so they can use it :)
 
-### Contact me
+I started myjob life recently and have been working with Scala for a year now. I like designing systems and frameworks, so in order to do that professionally some day, I study frameworks and languages. 
 
-[email@domain.com](mailto:email@domain.com)
+Current Interests - Scala, Finagle, Akka.
+
+Non Technical Interests - Philosophy, Writing and Poker
+
+### Any time if you wish to Say Hi!
+
+[saheb210692@gmail.com](mailto:saheb210692@gmail.com)
