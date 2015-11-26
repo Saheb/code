@@ -6,7 +6,7 @@
 name: Saheb Motiani
 
 # Short bio or description (displayed in the header)
-description: my hacks and experiments with code
+description: interesting concepts, programmer’s life and a software engineer at work
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/Saheb/saheb.github.com/master/me.jpg
@@ -45,7 +45,7 @@ url: "saheb.github.io"
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/hacks"
+baseurl: "/code"
 
 #
 # !! You don't need to change any of the configuration flags below !!
